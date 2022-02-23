@@ -1,0 +1,739 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King and Queen at Whitehall, Jan. 19, 1689 by J. Lambe ...</title>
+            <author>Lambe, John, 1648 or 9-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48500</idno>
+            <idno type="STC">Wing L222</idno>
+            <idno type="STC">ESTC R3372</idno>
+            <idno type="EEBO-CITATION">12891985</idno>
+            <idno type="OCLC">ocm 12891985</idno>
+            <idno type="VID">95117</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95117)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King and Queen at Whitehall, Jan. 19, 1689 by J. Lambe ...</title>
+                  <author>Lambe, John, 1648 or 9-1708.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Proverbs XXII, 4 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95117:1"/>
+            <p>A SERMON PREACHED Before the King and Queen AT WHITEHALL,
+<hi>Jan.</hi> 19. 1689.</p>
+            <p>By <hi>J. LAMBE,</hi> Chaplain to Their MAJESTIES.</p>
+            <p>
+               <hi>Publiſhed by Their Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby,</hi> at the
+<hi>Biſhop</hi>'s <hi>Head</hi> in St. <hi>Paul</hi>'s Church-Yard, 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:95117:2"/>
+            <pb n="1" facs="tcp:95117:2"/>
+            <head>A SERMON Preach'd before the KING and QUEEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. xxii. 4.</hi>
+                  </bibl> 
+                  <p>By Humility, and the fear of the Lord, are Riches, and Honour,
+and Life.</p>
+               </q>
+            </epigraph>
+            <p>LOrd, who will ſhew us any Good? is the general Enquiry, the
+univerſal Queſtion of all Mankind. Every be<g ref="char:EOLhyphen"/>ing purſues its own
+perfection, and would fain be ſatisfied in all the Capacities it
+underſtands, and in all the importunate Appetites it feels. Deſire and Want
+are the miſery of Life, but Good or Happineſs, is the free enjoyment of
+things convenient to us, the gratification of all the genuine diſpoſitions
+of the true and proper <pb n="2" facs="tcp:95117:3"/>inclinations of our Nature. But ſuch
+is the ignorance and depravity of Man, that we are not ſo ſenſible of the
+nobler and more excel<g ref="char:EOLhyphen"/>lent Capacities of our Minds, as we are of the
+ſenſible and more obvious goods of the natu<g ref="char:EOLhyphen"/>ral Life. To preſerve and
+defend that being we have acquired, to enrich our ſelves with all ſuch
+things as pleaſe the Body, and con<g ref="char:EOLhyphen"/>duce to the eaſe of our Lives, and to
+ſecure our Acquiſitions, by a fair reputation in the World, by the hearty
+good will, eſteem and love, of all that know us; this is the ge<g ref="char:EOLhyphen"/>neral
+deſign of all Men, theſe are the practi<g ref="char:EOLhyphen"/>cal Principles of every individual
+Perſon. But the perfection of the Mind, the improvement of our Reaſon, the
+Government of our Will, the fear of God, and the preparation for an Eternal
+Life hereafter; theſe, becauſe they are intellectual, inviſible, and
+future, are com<g ref="char:EOLhyphen"/>monly leſs regarded, too often loſt, and ſwallowed up of
+ſenſe.</p>
+            <p>Wherefore God, who loves and ſeeks our Happineſs, even more
+than we our ſelves, al<g ref="char:EOLhyphen"/>lows to our Imperfections, gives us His Laws as we can
+bear them, and draws us inſenſibly to Virtue and Obedience, by annexing
+thoſe good things, which we all perceive, admire <pb n="3" facs="tcp:95117:3"/>and
+proſecute, to the practice of thoſe Moral Duties, which are equally our
+Happineſs, but not ſo eaſily diſcerned. And thus of his Goodneſs he
+leaves us to the knowledge of our Souls, and draws us to himſelf, our chief
+and moſt abſolute Good, by the means of thoſe ſenſible things, which
+we underſtand, eſteem and love; For <hi>By humility, and the fear of the
+Lord, are Riches, and Honour, and Life.</hi>
+            </p>
+            <p>The <hi>Proverbs</hi> of <hi>Solomon</hi> are the Emanations of
+the great underſtanding, which God had beſtowed upon him,<note place="margin">1 Kin. 3.12.</note> above all the Men that ever lived; the moſt
+perfect rules of Wiſ<g ref="char:EOLhyphen"/>dom, for the Government of humane Life; piercing and
+awakening of the Mind, conſen<g ref="char:EOLhyphen"/>ted to of all, as ſoon as the words are
+under<g ref="char:EOLhyphen"/>ſtood. They are generally independent one of another, but compleat and
+full in every pe<g ref="char:EOLhyphen"/>riod. This before us encourages <hi>Humility,</hi> from the
+conſideration of the great advantages we may reaſonably expect, and are
+aſſured unto us from the practice of it, even all that is good and
+deſirable in this preſent World, both <hi>Riches, and Honour, and
+Life.</hi>
+            </p>
+            <p>Which words are a poſitive aſſertion of the certain effects
+and conſequences of Humility, that is to ſay, that a modeſt opinion of
+our <pb n="4" facs="tcp:95117:4"/>ſelves, and a chearful ſubmiſſion to the will of
+God in all conditions, ariſing from a pure and perfect Principle of Religion,
+and the fear of God, will procure us Wealth and Honour, and ſecure the
+enjoyment of them both, with Peace and Pleaſure, to a good old Age. <hi>By
+Humility, and the fear of the Lord,</hi> by ſuch an Humility, as proceeds
+from the fear of the Lord, <hi>are Riches, and Honour, and Life.</hi> So that
+the Text conſiſts of theſe <hi>two</hi> Parts.</p>
+            <p n="1">I. A Duty recommended, <hi>Humility with the fear of the
+Lord.</hi>
+            </p>
+            <p n="2">II. The Reward propoſed to enforce and encourage the
+practice of it, <hi>are Riches, and Ho<g ref="char:EOLhyphen"/>nour, and Life.</hi>
+            </p>
+            <p n="1">I. I begin with the firſt, the Duty recom<g ref="char:EOLhyphen"/>mended.
+<hi>Humility, with the fear of the Lord.</hi> And for the clearer and more
+perfect illuſtra<g ref="char:EOLhyphen"/>tion of it, I ſhall briefly conſider theſe
+<hi>two</hi> things.</p>
+            <p n="1">1. The definition, the nature, and prin<g ref="char:EOLhyphen"/>ciples of Humility
+in the general. And</p>
+            <p n="2">2. The ſeveral parts and exerciſes of Hu<g ref="char:EOLhyphen"/>mility ſo
+defined.</p>
+            <p n="1">1. I begin with the <hi>firſt,</hi> the definition,
+nature, and principles of Humility.</p>
+            <p>Humility has a near relation to many Gra<g ref="char:EOLhyphen"/>ces, <pb n="5" facs="tcp:95117:4"/>but if we conſider it by it ſelf, as a ſingle Vertue, it is, an
+habit or temper of Mind, proceeding from a Principle of <hi>Religion, or the
+fear of God,</hi> which ſubdues all lofty, falſe Opi<g ref="char:EOLhyphen"/>nions of ones ſelf,
+and diſpoſes a Man to a chearful acquieſcence, in all Eſtates and
+con<g ref="char:EOLhyphen"/>ditions of Life, that God ſhall place him in.</p>
+            <p n="1">(1.) It is an habit of Mind, a frame or temper of Soul; for
+a Virtue cannot be de<g ref="char:EOLhyphen"/>fined by ſingle actions. Faſting, Weeping, and
+Praying, may be the effects of Repen<g ref="char:EOLhyphen"/>tance, a ſubmiſs Behaviour of
+Humility, or they may not; becauſe the outward acts, be they what they will,
+may proceed from di<g ref="char:EOLhyphen"/>vers cauſes, and are therefore good or evil, ac<g ref="char:EOLhyphen"/>cording
+to the intention of the Author: they are the Servants of many Maſters, and
+receive their denomination from the inward Principle that produced them.</p>
+            <p n="2">(2.) Again, Humility is ſuch an habit of the Soul, as
+muſt be framed and wrought by a Principle of Religion, or the fear of God,
+for ſo ſayes the Text, <hi>By Humility, with the fear of the Lord,</hi>
+proceeding from a Principle of pure Religion, <hi>are Riches, and Honour, and
+Life.</hi> God has commanded it, I will there<g ref="char:EOLhyphen"/>fore ſtudy the goodneſs of
+it, that I may <pb n="6" facs="tcp:95117:5"/>love it, and chuſe it, and endeavour to
+attain the perfection of it. Nothing can be a Vertue in us that we have not
+choſen. Diſpoſitions of Nature may be rewarded, if by our care we
+preſerve them uncorrupt; and they are very happy that are naturally well
+in<g ref="char:EOLhyphen"/>clin'd, but the Vertue is far more perfect, to ſay no more, that is freely
+choſen, againſt the bent of our inclination; when reaſon exerci<g ref="char:EOLhyphen"/>ſes its
+proper power, and ſubdues unreaſona<g ref="char:EOLhyphen"/>ble Appetites, devoted Cuſtoms, to
+the Obe<g ref="char:EOLhyphen"/>dience of God.</p>
+            <p>In our preſent inſtance, there is a depreſſion of Mind in
+many Men by nature, an indiffe<g ref="char:EOLhyphen"/>rence to every thing, which is not ſo
+proper<g ref="char:EOLhyphen"/>ly the grace of Humility, as a natural Neceſſity. Humility then is
+an habit or temper of Mind, ariſing, not from ſiniſter reſpects, not
+from reaſons without our ſelves; nay not from na<g ref="char:EOLhyphen"/>tural neceſſity, but
+from a principle of <hi>Religion, or the fear of God.</hi> And it chiefly
+conſiſts in theſe <hi>two</hi> things.</p>
+            <p n="1">
+               <hi>Firſt,</hi> In a modeſt, juſt opinion of our
+ſelves, and</p>
+            <p n="2">
+               <hi>Secondly,</hi> In a chearful ſubmiſſion to the
+will of God, in all the conditions of Life, that Providence ſhall place us
+in.</p>
+            <pb n="7" facs="tcp:95117:5"/>
+            <p n="1">
+               <hi>Firſt,</hi> Humility ſubdues all lofty falſe
+opinions of our ſelves, of our own perfe<g ref="char:EOLhyphen"/>ctions and deſerts. It is the
+exerciſe of our Reaſon in judging and valuing our ſelves and others: that
+we neither arrogate thoſe quali<g ref="char:EOLhyphen"/>ties which indeed we never had; nor magnify
+thoſe we have, in our own conceit, above the degree of perfection we have
+attained, but that <hi>we think of our ſelves as we ought to think,</hi> as
+S. <hi>Paul</hi> deſcribes the nature of Humility, <hi>Rom.</hi> 1 2.3.</p>
+            <p>Every Man, by the inſtinct of his nature, would be more
+excellent and perfect than he is. God only is ſtable and immutable,
+deſi<g ref="char:EOLhyphen"/>ring and wanting nothing, but we are weak and impotent, always craving
+and never ſa<g ref="char:EOLhyphen"/>tisfied; weary of our own condition, as if we wanted ſomething
+that was our due, and en<g ref="char:EOLhyphen"/>vying the condition of our neighbour, as if he had too
+much. God has therefore obliged us to Humility, or a juſt opinion of our
+ſelves and others, that we may be ſenſible of our own miſcarriages,
+defects, and faults, as well as of the graces and good qualities of our
+Neigh<g ref="char:EOLhyphen"/>bour; that we may be glad our own condition is ſo happy as it is, and
+ready to acknowledge the Excellencies, and be well contented with the
+Proſperity of others, as the ſame St. <hi>Paul</hi> 
+               <pb n="8" facs="tcp:95117:6"/>explains <hi>Humility,</hi> Phil. 2.3. <hi>In lowlineſs of mind, let
+each eſteem other better than himſelf.</hi> That is the firſt.</p>
+            <p n="2">
+               <hi>Secondly,</hi> The ſecond part of Humi<g ref="char:EOLhyphen"/>lity reſpects
+our place and ſtation in the World, and teaches us to ſubmit with
+chearfulneſs to the will of God, under all the diſpenſations of his
+Providence. It moderates Ambition, re<g ref="char:EOLhyphen"/>gulates the deſire of Worldly Goods,
+and diſ<g ref="char:EOLhyphen"/>poſes us to a grateful liking, to eaſe and ſatiſ<g ref="char:EOLhyphen"/>faction in
+the place we are in. Our deſires will be higher or lower, according to the
+opi<g ref="char:EOLhyphen"/>nion we have of our ſelves; but Humility ſub<g ref="char:EOLhyphen"/>dues thoſe falſe
+imaginations, which Pride and Vanity impoſe upon us. It ſhews us our
+weakneſs, dependance, faults, and imperfecti<g ref="char:EOLhyphen"/>ons, and inclines us to be well
+contented in our ſtation, and to believe our ſelves to be very well
+provided. This is the definition, the na<g ref="char:EOLhyphen"/>ture, and principles of a Religious
+Humility, as it reſpects our Neighbour and our Selves.</p>
+            <p>There is another conſiderable part of Humi<g ref="char:EOLhyphen"/>lity, that is
+exerciſed in a more immediate manner upon God Himſelf, and conſiſts in
+the moſt honourable apprehenſions of His Sacred Majeſty, in the moſt
+ſincere acknowledge<g ref="char:EOLhyphen"/>ment of our dependance upon Him, and Ob<g ref="char:EOLhyphen"/>ligations 
+<pb n="9" facs="tcp:95117:6"/>to Him for Life, and all the comforts of it, in the moſt
+profound reſpect and reve<g ref="char:EOLhyphen"/>rence; in the moſt obſequious addreſſes to
+him, in the deepeſt ſorrow, in the greateſt in<g ref="char:EOLhyphen"/>dignation againſt our
+ſelves, in the loweſt de<g ref="char:EOLhyphen"/>miſſion of Mind, whenſoever we offend him,
+together with all the outward expreſſions of our inward ſenſe, that
+Nature, Reaſon, Cuſtom, or Example, ſhall direct us to. But becauſe
+this part of Humility towards God, is more eaſy in the practice, than the
+other; there is no diſpute between God and his Creature for preeminence, he
+underſtands our thoughts, and can eaſily puniſh our Pride and Arrogance;
+and therefore no Man, who believes his Be<g ref="char:EOLhyphen"/>ing, does directly oppoſe himſelf
+againſt him, or ſet himſelf in competition with him. And therefore at the
+preſent, I ſhall only conſider that part of Humility that is exerciſed
+upon our Neighbour and our Selves. And it chiefly conſiſts, as you have
+already heard, in a mo<g ref="char:EOLhyphen"/>deſt opinion of our own deſerts, and a chear<g ref="char:EOLhyphen"/>ful
+ſubmiſſion to the will of God, under all the diſpenſations of his
+Providence. As Pride on the other hand is an over-weaning opinion of ones
+ſelf, contempt and undervaluing of others, with a ſutable ambition of
+Worldly <pb n="10" facs="tcp:95117:7"/>greatneſs, to aſſert and ſupport this vain
+con<g ref="char:EOLhyphen"/>ceit. Thus Pride is explained by Arrogance, <hi>Prov.</hi> 8.13. By
+Self-conceit, <hi>Phil.</hi> 2.3. By a vain deſire of Glory, <hi>Gal.</hi>
+5.26. and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, one that boaſts of his endowments,
+<hi>Heſychius</hi> explains by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a proud Man.
+<hi>Superbia,</hi> ſays St. <hi>Aug. eſt perverſae celſitudinis
+appetitus (de Civ. Dei)</hi> and he deſcribes a proud Man thus: <hi>He cannot
+bear to be ſubject to any: amongſt his equals he affects precedency; and
+what he wants in merits, he will invade and force by flattering his
+ſupe<g ref="char:EOLhyphen"/>riours, envying his equals, and deſpiſing thoſe below him.</hi>
+Thus much for the definition, the na<g ref="char:EOLhyphen"/>ture, and principles of Humility in the
+ge<g ref="char:EOLhyphen"/>neral.</p>
+            <p n="2">2. I proceed, as I propoſed in the <hi>ſecond</hi>
+place, to conſider the ſeveral parts and exer<g ref="char:EOLhyphen"/>ciſes of the duty ſo
+defined.</p>
+            <p>The Vertue of Humility is one, and indi<g ref="char:EOLhyphen"/>viſible, neither more
+nor leſs than a modeſt opinion of our ſelves, a chearful contentation in
+our place, with candor, deference, and good will to all. But the practice upon
+theſe principles are as various, and infinite, as our capacities of
+expreſſing the ſentiments of our Mind.<note place="margin">Ep. 66.</note>
+               <hi>Vertue is one,</hi> ſays Seneca, <hi>neither leſs nor greater, but its
+ſpecies are many, which are ex<g ref="char:EOLhyphen"/>preſs'd <pb n="11" facs="tcp:95117:7"/>according to the
+variety of life and actions.</hi> And in our preſent inſtance, I ſhall
+endeavour to illuſtrate the principal exerciſes of Humility, in theſe
+following particulars.</p>
+            <list>
+               <item>(1.) In our <hi>Deſires</hi> and <hi>Aims.</hi>
+               </item>
+               <item>(2.) In our <hi>Looks</hi> and <hi>Geſtures.</hi>
+               </item>
+               <item>(3.) In our <hi>Garb,</hi> and <hi>Habit.</hi>
+               </item>
+               <item>(4.) And principally in our <hi>Conver<g ref="char:EOLhyphen"/>ſation.</hi>
+               </item>
+            </list>
+            <p n="1">(1.) In our <hi>Purſuits, Deſires,</hi> and
+<hi>Aims:</hi> A Man that is truly humble in his own opi<g ref="char:EOLhyphen"/>nion, will moderate
+his ambition of Worldy goods, he will be always apt to think he has as much as
+he deſerves, and ready to rejoice in the rewards of Vertue, upon whomſoever
+they ſhall light. If any good befals himſelf, he does not look upon it as
+his due, but as a kind encouragement to purſue that Vertue which he thinks he
+wants at preſent. But the deſires of the proud are never ſatisfied; if
+once a Man can perſwade himſelf that his deſerts are great, he can never
+be pleaſed, till he has attain'd the reward which his vain conceit has ſet
+upon his merit. Beſides, it is Power and Riches that nouriſh his Pride,
+that gratifie his fond opinion of himſelf, and force, at leaſt, a
+diſſembled honour from abroad. And there<g ref="char:EOLhyphen"/>fore <pb n="12" facs="tcp:95117:8"/>the vanity
+of his Spirit, will inflame his deſire, after all ſuch things as indulge
+and feed the humour. <hi>St.</hi> Aug. <hi>ſayes of Pride and Ambi<g ref="char:EOLhyphen"/>tion, that
+they are ſo far one and the ſame, as Pride is never to be found without
+Ambition, nor Ambition without Pride.</hi> (de Salut. Doct.) <hi>Is he made
+Tri<g ref="char:EOLhyphen"/>bune of the People,</hi>
+               <note place="margin">Epiſt.</note> 
+               <hi>ſays</hi>
+Seneca, <hi>ſpeaking of a proud Man, inſtead of returning thanks for that,
+be com<g ref="char:EOLhyphen"/>plains that he is not promoted to the Praetorſhip, nor would that
+content him, unleſs they chuſe him Conſul. Nay, the Conſulſhip it
+ſelf will hardly pleaſe him, un<g ref="char:EOLhyphen"/>leſs he may rule alone.</hi> So true is
+that account which <hi>Solomon</hi> has given of him, <hi>That he always
+expects to divide the ſpoil,</hi> Prov. 16, 19. that is the firſt.</p>
+            <p n="2">(2.) The ſecond exerciſe of Humility is in our
+<hi>Looks</hi> and <hi>Geſtures.</hi> A Man of an hum<g ref="char:EOLhyphen"/>ble Mind, that is truly
+ſenſible of his own de<g ref="char:EOLhyphen"/>ſects, will not eſtrange, or ſeparate
+himſelf from his Neighbour. He does not delight in the diſtance of
+inferiour People, nor ſtrike an awe upon them by an haughty look. He is
+al<g ref="char:EOLhyphen"/>ways ſenſible of his own defects, and is there<g ref="char:EOLhyphen"/>fore glad that his
+Neighbour will be free, and eaſy with him; extreamly pleaſed with a good
+acquaintance; with the intire and perfect Friendſhip of all about him.
+<hi>Humilis ultimum <pb n="13" facs="tcp:95117:8"/>ſe judicat, &amp; blando vultu terram
+intuens,</hi>
+               <note place="margin">De Salut. docum.</note> ſayes St.
+<hi>Aug.</hi> he is ſo far from neglecting, much leſs from ſcorning any
+Man, that he addreſſes all with a clear and a chearful Countenance, with
+freedom and courteſy, with ſweetneſs and af<g ref="char:EOLhyphen"/>fability. Nay the very
+geſtures of his Body well expreſs the humility of his Mind, his mo<g ref="char:EOLhyphen"/>tions
+are indifferent, eaſy, free and natural, without affectation or
+ſingularity, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſays St. <hi>Paul,</hi> he is not puffed
+up, he is not ſwell'd with high conceit, he does not ſtrut, and look down
+with contempt upon the World, but governs all his geſtures by the rules of
+ingenuity, and the cuſtoms of the place. But the looks of the proud are
+affected, ſingular and ſcornful, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Man of Pride is
+he, <hi>qui ſuper alios apparet, ut ſe conſpici<g ref="char:EOLhyphen"/>endum praebeat,</hi> one
+that looks over all the World, that he himſelf may be expoſed to view. He
+uſes all imaginable artifice to be ſeen, inquired of, and admired, though
+it be but of the ſimple. And thus the unreaſonable thirſt of Honour,
+betrays a Man, inſenſibly, into contempt and ſcorn; for we ſhall hear
+in the end, <hi>that the humble Spirit ſhall inherit Glory;</hi>
+               <note place="margin">Ecclus 22.24.</note> 
+               <hi>and not the Generation of Men,</hi>
+               <note place="margin">Pro. 30.13.</note> 
+               <hi>whoſe Eyes are haughty, and whoſe Eye
+lids are lift up.</hi> That is the ſecond.</p>
+            <pb n="14" facs="tcp:95117:9"/>
+            <p n="3">(3.) This inward habit of true Humi<g ref="char:EOLhyphen"/>lity, will be viſible
+in our <hi>outward garb,</hi> in our <hi>way of living</hi> in the World. A Man
+that is truly humble, does not deſire to be talk'd of. He rather affects to
+be concealed. He is afraid leſt thoſe who read upon him, ſhould
+ob<g ref="char:EOLhyphen"/>ſerve more evil qualities than good; and there<g ref="char:EOLhyphen"/>fore he always appears and
+lives, without de<g ref="char:EOLhyphen"/>ſign of obſervation, without any juſt provo<g ref="char:EOLhyphen"/>cation to
+envy, or evil will; but as a Man of his condition, according to the cuſtom of
+his Country, may be ſuppoſed and expected to appear and live. But a
+gariſh habit, and a manner of living, that is above his quality or eſtate,
+is a certain indication of Pride and Diſ<g ref="char:EOLhyphen"/>content. He is ſollicitous of
+publick notice, and ſhews, that he thinks it fit, and right, that he ſhould
+be in a higher ſtation than he is; and therefore he will thruſt himſelf
+into the out<g ref="char:EOLhyphen"/>ward garb and habit of it, though with the utmoſt hazard. He
+that imitates the faſhions of Men in Authority, Honour and Wealth, betrays
+his Ambition, though he makes him<g ref="char:EOLhyphen"/>ſelf ridiculous. That is the third</p>
+            <p n="4">(4.) And laſtly, This inward habit of true Humility, will
+chiefly expreſs it ſelf in our <hi>Converſation,</hi>
+            </p>
+            <pb n="15" facs="tcp:95117:9"/>
+            <p>
+               <hi>Firſt,</hi> With our Acquaintance, <hi>Friends</hi> and
+<hi>Equals,</hi> a Man of an humble Mind is full of courteſie and
+condeſcenſion, forward and ready in all expreſſions of civility and
+re<g ref="char:EOLhyphen"/>gard to his Friend, even more than he him<g ref="char:EOLhyphen"/>ſelf expects. He is not emulous
+of preceden<g ref="char:EOLhyphen"/>cy, but if place be undoubtedly his due, he rather accepts it in
+complyance with the oeco<g ref="char:EOLhyphen"/>nomy of the World, than for any delight in the thing
+it ſelf; according as St. <hi>Paul</hi> directs, Rom. 12.10.<note place="margin">1 Pet. 5.5.</note> 
+               <hi>Be kindly affectioned one towards another,
+with Brotherly Love, in Honour prefer<g ref="char:EOLhyphen"/>ring one another.</hi> He deſpiſes no
+Man's judg<g ref="char:EOLhyphen"/>ment, nor obtrudes his own Opinion with rudeneſs, violence, or
+paſſion, though it may be never ſo clear or evident; He hears the
+diſcourſe of others, with all civility and juſt allowance, if it be good
+and proper, with<g ref="char:EOLhyphen"/>out any viſible diſlike, much leſs affront, if it chance
+to be frivolous and impertinent.<note place="margin">Gal. 5.26.</note> 
+               <hi>He
+neither provokes nor envies any, Man. He does no<g ref="char:EOLhyphen"/>thing through ſtrife or
+vain-glory, but in lowlineſs of mind, he eſteems his neighbour better than
+himſelf. Phil.</hi> 2.3. In a word, he is always jealous of his own judgment,
+and ready to ſay with <hi>Agar,</hi> Pro. 30.2. <hi>Surely I have not the
+under<g ref="char:EOLhyphen"/>ſtanding of a Man,</hi> and is therefore well con<g ref="char:EOLhyphen"/>tented, 
+<pb n="16" facs="tcp:95117:10"/>if by all the Arts of Civility and Love, he may preſerve
+a good underſtanding, and a kind acceptance in the World. But a proud Man is
+always full of himſelf, jealous of his reception, impatient till you
+underſtand how much he thinks himſelf above you. He expects that all the
+court ſhould be addreſs'd to him, that he ſhould preſide and rule over
+all the Company; that every Man ſhould be of his Opinion, hear his
+Diſcourſe, allow his Characters, endure his tediouſneſs, commend his
+Wiſdom, admire his Beauty, and add to the Character he gives or inſinuates
+of him<g ref="char:EOLhyphen"/>ſelf: if you oppoſe him, you ſtrike him to the heart; if you
+rebuke him, he becomes your Enemy, for ſo ſays <hi>Solomon,</hi> Pro. 9.7.
+<hi>Reprove not a ſcorner, leſt he hate thee; rebuke a wiſe Man, and he
+will love thee.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Again, In his converſation with thoſe that
+are any way <hi>ſuperiour</hi> to him. An humble Man has a low opinion of
+him<g ref="char:EOLhyphen"/>ſelf, and is ſatisfied in his ſtation; he wiſhes he could deſerve
+what he has, or more, but is well contented with the promotion of his betters;
+<hi>He frankly rejoices with them that do re<g ref="char:EOLhyphen"/>joice,</hi>
+               <note place="margin">Rom.
+12.</note> and is really pleaſed with the proſperity of any Man. He is
+chearful under Government, <pb n="17" facs="tcp:95117:10"/>and loves the hand by which the
+benefits of the Commonwealth are diſpenſed unto him;<note place="margin">Eph.
+5.21. 1 Pet. 5.5.</note> he is ſincere and free in all the Cuſtomary
+Ho<g ref="char:EOLhyphen"/>nours that their place and quality require. But a proud Man hates his
+Betters, his addreſs is forced, his outward Compliment is againſt his will;
+he abhors from his Soul, that the Ho<g ref="char:EOLhyphen"/>nour and Wealth, which his vain conceit
+has reſolved to be due to himſelf, ſhould be en<g ref="char:EOLhyphen"/>joyed by another: and
+therefore he does what he can to find a fault, to depreciate his worth, and to
+ſtir up Enemies: he is ready to carp at his Abilities, vilifie his Manners,
+reflect upon his Wiſdom, undervalue his Eſtate, deſpiſe his Perſon.
+Something or other to bring him under obloquy, and level him with
+him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>
+               <hi>Thirdly,</hi> and <hi>laſtly,</hi> In his Converſa<g ref="char:EOLhyphen"/>tion
+with thoſe <hi>below</hi> him. A Man of an hum<g ref="char:EOLhyphen"/>ble Mind will be candid,
+civil, and ingenuous in the higheſt ſtations. He hides his acciden<g ref="char:EOLhyphen"/>tal
+luſtre, with a true and a decent greatneſs, and converſes courteouſly
+with inferiour Men; He neither frights them from him by his Pomp, nor
+diſcourages their approach by a forbid<g ref="char:EOLhyphen"/>ding look, but is eaſy of addreſs,
+ready to be ſpoke with, benign and chearful towards all. <pb n="18" facs="tcp:95117:11"/>
+               <hi>He condeſcend to Men of low eſtate,</hi> (Rom. 12.16.)
+Receives their viſits, treats them kindly, accepts their Preſents, helps
+them in diſtreſs, as our Saviour <hi>waſhed the Diſciples feet</hi>
+(Joh. 13.14.) and obliges us, according to his Exam<g ref="char:EOLhyphen"/>ple, <hi>to waſh one
+anthers feet.</hi> He accepts the ſervices of his Servants with a chearful
+Coun<g ref="char:EOLhyphen"/>tenance, and a civil gratitude; He makes their places eaſy, by ſhewing
+himſelf the Friend, as well as the Maſter of the Family. But a Man that is
+proud and potent, is the moſt intolerable Being upon Earth; he ſtu<g ref="char:EOLhyphen"/>dies to
+make himſelf a terrour to all about him; he is pleaſed when he can appale
+them by a ſtern and cloudy Countenance. Nay ſo un<g ref="char:EOLhyphen"/>accountable is Pride with
+Greatneſs, that he does not know himſelf, what it is he expects from his
+Dependents. St. <hi>Aug.</hi> upon this ac<g ref="char:EOLhyphen"/>count compares him to a <hi>Ship
+that is toſſed upon the Waves,</hi>
+               <note place="margin">De Salut. Doc.
+lib.</note> 
+               <hi>without a Pilot.</hi> What humour, luſt, or paſſion,
+muſt be gratified to day, is uncer<g ref="char:EOLhyphen"/>tain; quite the contrary perhaps to
+Morrow. Who ſhall be next in his favour or diſpleaſure, is hard to
+gueſs. If you pleaſe him, he is fre<g ref="char:EOLhyphen"/>quiſh in his favours; for his
+kindneſs to you, is only to uſe you as his Slave for a while; if you fall
+into diſgrace, he deſigns and works your ruine.</p>
+            <pb n="19" facs="tcp:95117:11"/>
+            <p>Theſe are the principal Acts, the neceſſary Effects both of
+Humility and Pride; where-ever the Principle is, theſe will be the certain
+radical operations of it; we ſhall fall into them naturally, as occaſion
+offers. Only in this, as in all other Vertues whatſoever, al<g ref="char:EOLhyphen"/>lowance muſt
+be made to the Paſſion and Sur<g ref="char:EOLhyphen"/>prizes, to the Frailty and Imperfections of
+hu<g ref="char:EOLhyphen"/>mane Nature. But where theſe outward acts are as ſtable and equal, as
+even and uniform as our preſent ſtate permits, there, and there on<g ref="char:EOLhyphen"/>ly, is
+the Virtue: for it does not conſiſt in any particular thing, not in
+converſing with the Poor, not in an abject Countenance, not in a ſqualid
+Habit; but in an uniform practice of all the neceſſary acts of Humility, as
+occaſi<g ref="char:EOLhyphen"/>on offers. It is this alone that is the Grace, becauſe it is this
+alone that can never be acted or put on. It is impoſſible that Hypocriſie
+ſhould be uniform, no Hypocrite can imitate ſo many ſeveral things. The
+Expreſſions of Humility are copious and infinite, and there<g ref="char:EOLhyphen"/>fore are never
+to be taught or acted. But the Grace it ſelf is an inward, living Principle,
+and will influence our outward Actions, eaſi<g ref="char:EOLhyphen"/>ly, naturally, and without
+teaching.</p>
+            <p>Hence it appears, that Kings and Noblemen <pb n="20" facs="tcp:95117:12"/>may
+be humble as well as others: they may uſe an outward Grandeur according to
+their Quality, and yet be very meek: for the Grace is within the Man; he may
+poſſibly <hi>endure,</hi> ra<g ref="char:EOLhyphen"/>ther than be conceited of his Equipage, much
+leſs a Deſpiſer of others. No, we muſt take eſpecial care to
+preſerve the oeconomy of the World, and the diſtinctions of Men, in all our
+Meditations of Humility and Pride, and endeavour, according to what has been
+ſaid, to have a right underſtanding of both.</p>
+            <p>Thus, as briefly as I could, I have laid be<g ref="char:EOLhyphen"/>fore you, as well the
+Nature and Definition, as the principal Acts and Exerciſes of a Religi<g ref="char:EOLhyphen"/>ous
+Humility.</p>
+            <p n="2">II. And I now proceed to the <hi>Second</hi> Gene<g ref="char:EOLhyphen"/>ral, the
+Reward propoſed to perſwade and en<g ref="char:EOLhyphen"/>courage the Practice of it: <hi>By
+humility and the fear of the Lord are riches, and honour, and life.</hi> And
+here there are theſe two things to be con<g ref="char:EOLhyphen"/>ſidered.</p>
+            <p n="1">1. That Riches and Honour and Life are a real Bleſſing,
+and the proper matter of Reward. And</p>
+            <p n="2">2. That Humility with the Fear of the Lord will certainly
+procure them.</p>
+            <pb n="21" facs="tcp:95117:12"/>
+            <p n="1">1. That Riches and Honour and Life, are a real Bleſſing,
+and the proper matter of Reward.</p>
+            <p>Happineſs can be nothing elſe but the Satis<g ref="char:EOLhyphen"/>faction of natural
+Appetites, according to, and not exceeding the Intention of Nature. God has
+made us capable of variety of Satisfa<g ref="char:EOLhyphen"/>ctions, and given us ſuitable
+Deſires, and there<g ref="char:EOLhyphen"/>fore want in any of theſe is Miſery in proportion: for
+there is no notion of Miſery, but Empti<g ref="char:EOLhyphen"/>neſs and Deſire unſatisfied.
+What is contrary to our Nature, frets and grates us, but what is agreeable to
+our true and natural diſpoſitions delights and pleaſes us; the one is
+called Happi<g ref="char:EOLhyphen"/>neſs, the other Pain or Miſery: and therefore the Goods of the
+World (comprehended here in <hi>Riches</hi> and <hi>Honour</hi> and
+<hi>Life</hi>) having a real value in them, in their order and degree, are
+propoſed as the Reward of <hi>Humility with the fear of the Lord.</hi> If
+Temporal Bleſſings prove pernicious to us, as oftentimes they do, the Fault
+is not in them, but in us, in that we re<g ref="char:EOLhyphen"/>ſolve our <hi>final</hi> Happineſs
+into them, and ſet our <hi>Affections</hi> upon them, to the prejudice of our
+higher and more excellent Capacities. But they may be lawfully enjoyed to that
+de<g ref="char:EOLhyphen"/>gree that God allows, and are worthy of a juſt <pb n="22" facs="tcp:95117:13"/>purſuit in the way that he propoſes, and that is, ſays the Text,
+<hi>by humility, and the fear of the Lord.</hi> This is the Method that God has
+ap<g ref="char:EOLhyphen"/>pointed, and they that ſeek them thus, may ex<g ref="char:EOLhyphen"/>pect to attain them.</p>
+            <p n="1">(1.) By a <hi>natural Power</hi> and <hi>Efficacy</hi> in
+the Vertue it ſelf.</p>
+            <p n="2">(2.) By an <hi>Efficacy Moral;</hi> there is ſome<g ref="char:EOLhyphen"/>thing in
+the practice of Humility, that diſpo<g ref="char:EOLhyphen"/>ſes kindly to all thoſe ſeveral
+ends.</p>
+            <p n="3">(3.) By an <hi>efficacy Divine</hi> and <hi>Spiritual;</hi>
+the bleſſing of God will aſſiſt and forward the deſigns of the
+humble, that he ſhall ordina<g ref="char:EOLhyphen"/>rily attain his ends, and live in Plenty,
+Honour, and Eſteem, to a good old Age. <hi>By Humi<g ref="char:EOLhyphen"/>lity, and the fear of the
+Lord,</hi> &amp;c.</p>
+            <p n="1">(1.) By a <hi>natural power</hi> and <hi>efficacy</hi> in
+the vertue it ſelf. An humble diſpoſition tends to Riches, procures
+Honour, and pre<g ref="char:EOLhyphen"/>ſerves Health.</p>
+            <p n="1">
+               <hi>Firſt,</hi> It tends to <hi>Riches,</hi> and pro<g ref="char:EOLhyphen"/>motes
+our intereſt in the World. It cauſes us to propoſe ſuch ends as are
+reaſonable, and within our reach; it makes us cautious and prudent in our
+meaſures. It gives us Patience under the croſſes and diſappointments of
+the World, and encourages us to try contentedly <pb n="23" facs="tcp:95117:13"/>again. His
+Life is comfortable, his matters are managed with ſilence and diſcretion,
+his Mind is ſteddy, calm, and fit for buſineſs. But the Proud are high
+and lofty in their aims, furious in proſecution, and impatient of any rub.
+They propoſe more to themſelves than they can compaſs, which baffles all
+their pro<g ref="char:EOLhyphen"/>jects, and brings them to nothing in the end.</p>
+            <p n="2">
+               <hi>Secondly,</hi> Again, Humility natural<g ref="char:EOLhyphen"/>ly tends to
+<hi>Honour,</hi> Wiſdom and Steddineſs; Patience and an even prudent
+managery are ſo ſeldom ſeen, that they never fail to procure eſteem and
+a fair reputation in the World. Thoſe things have a luſtre in them, which
+by a neceſſary efficacy, like the Sun it ſelf, dazle the ſight, and
+charm the ſpirits of all Men.</p>
+            <p n="3">
+               <hi>Thirdly,</hi> and <hi>laſtly,</hi> Humility natu<g ref="char:EOLhyphen"/>rally
+tends to <hi>Health,</hi> and prolongs our Life. Pride and ſolicitude, Envy
+and deſire unſatiſ<g ref="char:EOLhyphen"/>fied, nouriſh a continual Paſſion, exhauſt the
+Spirits, diſquiet ſleep, and ſo deſtroy the Health and Life of
+many.<note place="margin">Plut.</note> As <hi>Themiſtocles</hi> ſays of
+himſelf; <hi>that the Victory and Trophees of</hi> Mil<g ref="char:EOLhyphen"/>tiades,
+<hi>interrupted his Peace, and would not ſuffer him to take his reſt.</hi>
+But an humble indifference, a meek and a chearful temper, is the Fountain 
+<pb n="24" facs="tcp:95117:14"/>of all tranquillity and pleaſure: his Spirits do not
+rage, and boil, and overſet the Body; his reſt is ſweet, his Mind is
+free, neither empty of all deſign, nor preſſed down with care. He has
+buſineſs enough to employ his thoughts, leiſure enough to regard
+himſelf, content and quiet under all events. And thus by natural cauſality,
+<hi>From Humility,</hi> &amp;c.</p>
+            <p n="2">(2.) Again, By an <hi>efficacy moral;</hi> Hu<g ref="char:EOLhyphen"/>mility
+diſpoſes kindly to all theſe ſeveral ends, becauſe it conciliates the
+good opinion of all Men. The deigns of the humble are modeſt, and therefore
+he uſes no indirect provoking Arts to attain his Worldly ends. He builds a
+Fortune upon no Man's ruine; he is fair and upright in all his dealings, candid
+and ingenu<g ref="char:EOLhyphen"/>ous, without deſign or trick, which irreſiſta<g ref="char:EOLhyphen"/>bly gain the
+good-will of all. Every one will be his Friend, ready to aſſiſt him,
+adviſe him, inform him of any deſign that is upon him, or of any good that
+may be in his way. And in<g ref="char:EOLhyphen"/>deed a ſtock in the favour and good-will of our
+Neighbour, may prove the beſt eſtate in this uncertain World.</p>
+            <p n="3">(3.) And laſtly, By an <hi>efficacy Divine</hi> and
+<hi>Spiritual;</hi> The Bleſſing of God will attend the humble, and ſo
+diſpoſe and order ſecond <pb n="25" facs="tcp:95117:14"/>Cauſes, that they ſhall
+live in Plenty, Peace, and Honour, to a good old Age. An hum<g ref="char:EOLhyphen"/>ble compliance
+with the will of God, Con<g ref="char:EOLhyphen"/>tent in our Station, Gratitude for Benefits
+re<g ref="char:EOLhyphen"/>ceived, Patience and Self-denial under croſs Events, diſpoſe, in their
+nature, to the Fa<g ref="char:EOLhyphen"/>vour and Love of God, the Governour of the World. He cannot
+but be pleas'd with thoſe that comply with his Providence, and pro<g ref="char:EOLhyphen"/>mote his
+own Deſigns. And therefore <hi>upon whom ſhall I reſt,</hi> ſays God,
+<hi>but upon him that is of an humble and a contrite ſpirit? Humility is a
+Bed of Repoſe and Pleaſure to God himſelf,</hi> is St.
+<hi>Au<g ref="char:EOLhyphen"/>guſtine</hi>'s Note upon the place. And <hi>though the Lord be high,
+yet he hath reſpect to the lowly, but beholdeth the proud afar off,</hi>
+Pſ. 138.6. The Proud are in a manner out of his ſight; but the humble are
+under his particular care and providence. And therefore <hi>the meek ſhall
+inhe<g ref="char:EOLhyphen"/>rit the Earth,</hi> Matth. 5. <hi>They ſhall have wiſdom and
+counſel,</hi> Prov. 11.2. <hi>They ſhall be exalted,</hi> Luk. 1.52.
+<hi>They ſhall have reſt and tranquillity in all conditions,</hi> Matt. 11.
+ult. <hi>But pride goeth before deſtruction, and an haughty ſpirit before a
+fall,</hi> Prov. 16.18. <hi>Tollitur altiſſimè, ut majori caſu
+ru<g ref="char:EOLhyphen"/>at.</hi> And thus, <hi>By humility, and the fear of the Lord, are riches,
+and honour, and life,</hi> as well <pb n="26" facs="tcp:95117:15"/>in the Nature and
+Reaſon of the thing, as by the special Promiſes of God.</p>
+            <p>
+               <hi>Uſe.</hi> It now remains that we earneſtly en<g ref="char:EOLhyphen"/>deavour to
+accompliſh our Souls with this ſo uſeful, ſo advantagious a Vertue. You
+ſee it is every way your Intereſt, as well as it is your Duty: Pride is a
+vain and empty Satisfaction, a continual Diſappointment; but Humility is a
+ſure Foundation of Riches, and Honour, and Life. Pride would fain be great
+but can<g ref="char:EOLhyphen"/>not; but Humility is indifferent, and is there<g ref="char:EOLhyphen"/>fore courted by the
+World, it follows it, and offers it ſelf unto it. If you ſay, that Pride is
+ſo natural to us, that it is impoſſible to be root<g ref="char:EOLhyphen"/>ed out; that it has
+ſo obtained in the World, that no Man with any Decency or Reputati<g ref="char:EOLhyphen"/>on can lay
+it now aſide. The Anſwer is this, that if it were impoſſible, it could
+not be made a Duty: the truth is, the Deſire of a more perfect State, to
+ſtrive after greater Excellen<g ref="char:EOLhyphen"/>cies, than we have, the Emulation of vertuous
+and lovely Qualities: Theſe are the true diſ<g ref="char:EOLhyphen"/>poſitions and genuine
+Inclinations of humane Nature; but the Vice of Pride is unnatural and wholly
+foreign to us: it would be eſteem'd for that which it has not, it would be
+rewarded for that which it deſerves not, it <pb n="27" facs="tcp:95117:15"/>is a
+Complication of Immoralities, Rebelli<g ref="char:EOLhyphen"/>on againſt the Providence of God,
+Detracti<g ref="char:EOLhyphen"/>on, Envy, Malice, and vain Imagination. This, to be ſure, is a
+Diſeaſe we have brought upon our Selves; we love the Vice, we nou<g ref="char:EOLhyphen"/>riſh
+the Diſtemper, we force our Nature to it, and vainly hope, to come off at
+laſt by plead<g ref="char:EOLhyphen"/>ing a Neceſſity. But did you ever endeavour to cure this
+Malady in earneſt? did you ever uſe the proper Means? did you ever
+conſider how little reaſon you had to be proud or haughty? what a
+miſerable imperfect Being the beſt of us is, how inſufficient, how
+de<g ref="char:EOLhyphen"/>pendent? St. <hi>James</hi> perſwades to Humility from hence, <hi>That we
+are all ſubject to God,</hi> (c. 4. v. 7.) <hi>And what have you,</hi> ſays
+St. <hi>Paul, that you have not received?</hi> If you receiv'd it, why do ye
+glory? Nay, even that, that we have recei<g ref="char:EOLhyphen"/>ved, and is ſo precarious, ſo
+intirely at the will of another, is ſo little in it ſelf, ſo fading and
+imperfect, that it is no Foundation of Conceit or Haughtineſs. <hi>For we are
+nothing but ſoreneſs and corruption,</hi> ſays the Prophet. <hi>Sordet in
+conſpectu Judicis,</hi>
+               <note place="margin">
+                  <hi>S.</hi> Auguſt.</note>
+               <hi>quod fulget in conſpectu operantis,</hi> ſays the Father. It is well
+that there re<g ref="char:EOLhyphen"/>mains a more perfect State hereafter for us, who never attain to
+ſo great a Perfection of our <pb n="28" facs="tcp:95117:16"/>Nature here, as other Beings
+do in theirs. What is our Beauty? it is commonly miſta<g ref="char:EOLhyphen"/>ken, eſpecially by
+our Selves; but where in<g ref="char:EOLhyphen"/>deed it is, the Shades do ſo hide the Light, that it
+generally ſpoils the Picture. The Flow<g ref="char:EOLhyphen"/>ers of the Field excel us: and what we
+have, is fading and inconſtant; there is no ſecurity in it, no propriety,
+and therefore the value of it is not great. Is it his Wiſdom that a Man may
+value himſelf upon? Which Wiſdom? That of Yeſterday, or his preſent
+Senti<g ref="char:EOLhyphen"/>ments? For alas, a Man is ſo unſtable, ſo in<g ref="char:EOLhyphen"/>conſiſtent with
+himſelf, that his Principles, O<g ref="char:EOLhyphen"/>pinions, and Inſtitution of Life, are
+ſeldom the ſame many years together. There is al<g ref="char:EOLhyphen"/>ways ſome byaſs or
+other that obſtructs his Judgment, and hinders the free and proper motions of
+his Mind, which at the beſt are but imperfect. What is it then? Is it Wealth
+and Power that puff us up? But Power without Reaſon and Goodneſs, is a
+Whirlwind, a Tem<g ref="char:EOLhyphen"/>peſt, Belluine Ferocity, the degeneracy of hu<g ref="char:EOLhyphen"/>mane nature:
+and as for the Power that is juſt<g ref="char:EOLhyphen"/>ly exerciſed, it is equally beneficial to
+the Sub<g ref="char:EOLhyphen"/>ject, with the Prince, it equally ſecures them both in their Rights
+and Properties. The Power and Dominion of one Man over another, is 
+<pb n="29" facs="tcp:95117:16"/>at the beſt, but a neceſſary evil, brought into the
+World to reſtrain the exorbitant tempers of Men, and indeed moſt evil to
+thoſe that exerciſe it. Does it not oblige them to a te<g ref="char:EOLhyphen"/>dious attendance?
+are they not ſubject to di<g ref="char:EOLhyphen"/>ſtracting Cares, opprobrious Cenſures,
+dan<g ref="char:EOLhyphen"/>gerous Envy, treacherous Conſpiracies, and frequent Diſſolutions?
+Upon the matter then, there is nothing in a Man's Poſſeſſion that is
+ſufficient to elate his Mind? That that really commends him, is an humble
+ſenſe of what he has attained, and an earneſt endeavour to proceed and
+improve; this at the ſame time will both prevent the aſſuming Glory, and
+make you really deſerving of it.</p>
+            <p>Finally, Set the Example of our bleſſed Sa<g ref="char:EOLhyphen"/>viour before your
+Eyes, who humbled himſelf to death upon the Croſs for us. <hi>Let us
+bluſh,</hi> ſays the Father, <hi>to be proud,</hi>
+               <note place="margin">
+                  <hi>S.</hi> Auguſt.</note> 
+               <hi>for whom our Saviour is thus
+humbled.</hi> We muſt needs be very unde<g ref="char:EOLhyphen"/>ſerving Wretches, who ſo
+provoked the Al<g ref="char:EOLhyphen"/>mighty Juſtice, that nothing but the Blood of his Son could
+atone our guilt. Theſe things, if well conſidered, would be ſufficient to
+keep down all the ebullitions of a haughty Spirit; eſpecially if we add to
+this, our conſtant Prayers to God for his aſſiſtance, who will be
+always <pb n="30" facs="tcp:95117:17"/>ready to ſupport our weakneſs, prevent
+temp<g ref="char:EOLhyphen"/>tation, facilitate our Victory, and bring us at laſt to that Happy
+State, where we ſhall all be as great and glorious as we can deſire.<note place="margin">Matt. 5.3.</note> 
+               <hi>For bleſſed are the poor in Spirit, for
+theirs is the King<g ref="char:EOLhyphen"/>dom of Heaven.</hi> To which God of his Mercy bring us all,
+for Jeſus Chriſt his ſake the Righ<g ref="char:EOLhyphen"/>teous, to whom with the Father, and
+the Holy Ghoſt, be all Honour, Glory, Praiſe, Dominion and Obedience, now,
+and for E<g ref="char:EOLhyphen"/>vermore. <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 3. line 4. for <hi>leaves</hi> read <hi>leads,</hi> p. 6. l.
+11. for <hi>devoted</hi> r. <hi>and rooted,</hi> p. 12. l. 6. r.
+<hi>Doc.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95117:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
